@@ -22,7 +22,7 @@ The database schema is normalized and supports 1:N and M:N relationships using p
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/clinic-booking-system.git
+git clone https://github.com/Venny-Shiru/clinic-booking-system.git
 cd clinic-booking-system
 ````
 
@@ -65,21 +65,12 @@ The system uses MySQL roles to manage permissions:
 * Doctor: `dr_smith` / `DocPass123!`
 * Receptionist: `reception_user` / `ReceptionPass123!`
 
-> You can modify user credentials or add more via MySQL.
-
 ---
 
 ## 📂 Contents
 
 * `clinic_booking_system.sql` — Full schema, sample data, user roles, and privileges
-* ER Diagram (PNG/JPEG format)
-
----
-
-## 📌 Notes
-
-* Ensure MySQL version ≥ 8.0 (for roles and privileges support)
-* Schema is modular for easy integration with application layers (e.g., PHP, Python, Java)
+* https://drive.google.com/file/d/1yXpYA2xCrONfOB4QRg3b0bvPnGl8SjLD/view?usp=sharing - ER Diagram Link
 
 ---
 
@@ -87,9 +78,4 @@ The system uses MySQL roles to manage permissions:
 
 MIT License. Use freely with attribution.
 
-```
-
----
-
-Would you like me to include the ER diagram in the README as an image link or embed it directly into this markdown?
 ```
