@@ -1,5 +1,4 @@
--- Clinic Booking System Full SQL Script
--- Generated on 2025-05-12 09:56:49
+-- Clinic Booking System
 
 -- Step 1: Create the database
 CREATE DATABASE clinic_db;
