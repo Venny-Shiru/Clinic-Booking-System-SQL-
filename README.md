@@ -70,7 +70,7 @@ The system uses MySQL roles to manage permissions:
 ## 📂 Contents
 
 * `clinic_booking_system.sql` — Full schema, sample data, user roles, and privileges
-* https://drive.google.com/file/d/1yXpYA2xCrONfOB4QRg3b0bvPnGl8SjLD/view?usp=sharing - ER Diagram Link
+* https://drive.google.com/file/d/1yXpYA2xCrONfOB4QRg3b0bvPnGl8SjLD/view?usp=sharing - ER Diagram
 
 ---
 
