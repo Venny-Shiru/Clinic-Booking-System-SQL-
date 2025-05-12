@@ -22,8 +22,8 @@ The database schema is normalized and supports 1:N and M:N relationships using p
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/Venny-Shiru/clinic-booking-system.git
-cd clinic-booking-system
+git clone https://github.com/Venny-Shiru/Clinic-Booking-System-SQL-.git
+cd Clinic-Booking-System-SQL-
 ````
 
 ### 2. Open MySQL and Import the Database
